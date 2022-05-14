@@ -5,7 +5,7 @@ This repository contains solutions for all exercises in Image & Video Processing
 
 More specifically, there were three exercises:
 
-    1. ...
+    1. Applications based on the paper "The Laplacian Pyramid as a Compact Image Code" by Peter J. Burt and Edward H. Adelson
     2.
     3.
 
