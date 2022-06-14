@@ -7,7 +7,7 @@ More specifically, there were three exercises:
 
 1. Applications based on the paper "The Laplacian Pyramid as a Compact Image Code" by Peter J. Burt and Edward H. Adelson
 2. Deep learning concepts, convolutional neural networks, famous structures (LeNet, AlexNet, VGG)
-3.
+3. YOLO algorithm and applications, Object detection and tracking
 
 Further details can be found in the assignments.
 
